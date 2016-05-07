@@ -1,0 +1,21 @@
+{
+  "name": "Complex",
+  "homepage": "https://github.com/Dukon/Complex",
+  "authors": [
+    "Duke"
+  ],
+  "description": "New Urok",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^4.1.1",
+    "jquery": "^2.2.3"
+  }
+}
